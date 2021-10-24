@@ -1,0 +1,31 @@
+.page-header {
+    font-size: 45px;
+    background-color: grey;
+    color: honeydew;
+    text-align: center;
+    padding: 40px;
+    margin: 0px;
+}
+
+h1 {
+    background-color: rgb(230, 236, 230);
+    margin: 0px;
+
+}
+
+.greeting {
+    font-size: 25px;
+    padding: 50px;
+    background-color: rgb(172, 165, 165);
+}
+
+.iman {
+    height: 250px;
+    border-radius: 50%;
+    float: left;
+    margin: 15px;
+}
+
+.footer {
+    background-color: rgb(92, 87, 87);
+}
